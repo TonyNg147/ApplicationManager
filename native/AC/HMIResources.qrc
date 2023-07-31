@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/HMIResources">
+        <file alias = "RootScreen.qml">QML/RootScreen.qml</file>
+        <file alias = "ScreenA.qml">QML/ScreenA.qml</file>
+        <file alias = "ScreenB.qml">QML/ScreenB.qml</file>
+    </qresource>
+</RCC>

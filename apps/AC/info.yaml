@@ -1,0 +1,13 @@
+formatVersion: 1
+formatType: am-application
+---
+id:      'AC'
+icon:     ''
+code:    'AC'
+runtime: 'native'
+name:
+  en: 'AC'
+runtimeParameters:
+  importPaths: [ "." ]
+  environmentVariables:
+    QT_WAYLAND_DISABLE_WINDOWDECORATION: "1"
